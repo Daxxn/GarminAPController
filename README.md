@@ -9,9 +9,9 @@ Its not bad... Well its actually crap. It was my first project though and I'm ha
 
 I was experimenting with inter-MCU communication and designing a multi-PCB project. It was alot harder when the tools I was using had no way to keep track of pinouts and getting all the PCBs into one CAD project was a nightmare. Although, I had alot of fun developing my own communication protocol and figuring out how to send numbers bigger than a byte! Ohh, and it didn't set itself on fire..
 
-![Version 1 Render 1](./Docs/Renders/FirstTry/TBMAutopilotAssembly-REV1%20-%20Front.PNG)
+![Version 1 Render 1](./Docs/Renders/FirstTry/TBMAutopilotAssembly-REV1-Front.PNG)
 
-![Version 1 Render 2](./Docs/Renders/FirstTry/TBMAutopilotAssembly-REV1%20-%20Back.PNG)
+![Version 1 Render 2](./Docs/Renders/FirstTry/TBMAutopilotAssembly-REV1-Back.PNG)
 
 
 # Version 2:
