@@ -54,11 +54,13 @@ The options for things like max brightness, status indication, button and aux co
 
 The protocol is simple. Relying on the USB Serial COMM Port and a standard 115200 baud rate. In the future, I would like to create a custom HID interface and USB driver. I'm just not there yet. [The protocol is described here in more detail.](./Docs/SerialUSBProtocol.md)
 
-![Render Front 1](./Docs/Renders/APController_Assembly_Front1.JPG)
+![Render Faceplate](./Docs/Renders/APController_Assembly_Face1.JPG)
+
+![Render Front 1](./Docs/Renders/APController_PCB_Back1.JPG)
 
 ![Render Back](./Docs/Renders/APController_Assembly_Back1.JPG)
 
-![Render Front 2](./docs/renders/APController_Assembly_Internals1.JPG)
+![Render Front 2](./Docs/Renders/APController_Assembly_Internals1.JPG)
 
 [See the Full CAD Project Here](https://cad.onshape.com/documents/2cdb34bada5ac0e97f55ad1b/w/1d9a53a77bfbd00e7668fd50/e/991477143b7ac83eefeb1334?renderMode=0&uiState=6617a6e1f2ac6e5e4b32f398)
 
