@@ -1,0 +1,8 @@
+../Core/Inc/RotaryEncoder.h:34:7:bool RotaryEncoder::GetStateChanged()	1
+../Core/Inc/RotaryEncoder.h:36:7:void RotaryEncoder::ResetDir()	1
+../Core/Src/EncoderManager.cpp:10:1:EncoderManager::EncoderManager(RotaryEncoder*, RotaryEncoder*, RotaryEncoder*, RotaryEncoder*, RotaryEncoder*)	1
+../Core/Src/EncoderManager.cpp:19:1:EncoderManager::~EncoderManager()	1
+../Core/Src/EncoderManager.cpp:19:1:virtual EncoderManager::~EncoderManager()	1
+../Core/Src/EncoderManager.cpp:28:6:bool EncoderManager::GetStateChanged()	6
+../Core/Src/EncoderManager.cpp:53:6:void EncoderManager::GetPositions(uint8_t*)	1
+../Core/Src/EncoderManager.cpp:62:6:void EncoderManager::GetDirections(uint8_t*)	1

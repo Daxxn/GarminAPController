@@ -1,0 +1,5 @@
+../USB_DEVICE/App/usb_device.c:58:6:RegisterUSBReceiveCallback	16	static
+../USB_DEVICE/App/usb_device.c:63:21:GetUSBHandle	8	static
+../USB_DEVICE/App/usb_device.c:68:6:UsbReceivedData	16	static
+../USB_DEVICE/App/usb_device.c:75:6:UsbTransmitData	16	static
+../USB_DEVICE/App/usb_device.c:85:6:MX_USB_DEVICE_Init	8	static

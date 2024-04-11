@@ -1,0 +1,9 @@
+../Core/Inc/Utils.h:165:7:void PWMPin::Set(uint16_t)	16	static
+../Core/Src/IndicatorManager.cpp:10:1:IndicatorManager::IndicatorManager(STPLEDDriver*, PWMPin*)	24	static
+../Core/Src/IndicatorManager.cpp:16:1:IndicatorManager::~IndicatorManager()	16	static
+../Core/Src/IndicatorManager.cpp:16:1:virtual IndicatorManager::~IndicatorManager()	16	static
+../Core/Src/IndicatorManager.cpp:22:6:void IndicatorManager::ParseIndicators(uint8_t*)	16	static
+../Core/Src/IndicatorManager.cpp:29:6:void IndicatorManager::SetIndicator(IndicatorName, uint8_t)	16	static
+../Core/Src/IndicatorManager.cpp:34:6:void IndicatorManager::SetBacklight(uint16_t)	16	static
+../Core/Src/IndicatorManager.cpp:39:6:void IndicatorManager::SetIndBrightness(uint8_t)	16	static
+../Core/Src/IndicatorManager.cpp:44:6:void IndicatorManager::SetMaxIndBrightness(uint8_t)	16	static

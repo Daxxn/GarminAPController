@@ -1,0 +1,10 @@
+../Core/Inc/Utils.h:104:16:GPIO_PinState Pin::Read()	16	static
+../Core/Inc/Utils.h:111:7:bool Pin::Read(int&&)	16	static
+../Core/Inc/Utils.h:136:7:bool Pin::GetState(int&&)	16	static
+../Core/Src/RotaryEncoder.cpp:10:1:RotaryEncoder::RotaryEncoder(Pin*, Pin*)	24	static
+../Core/Src/RotaryEncoder.cpp:16:1:RotaryEncoder::~RotaryEncoder()	16	static
+../Core/Src/RotaryEncoder.cpp:16:1:virtual RotaryEncoder::~RotaryEncoder()	16	static
+../Core/Src/RotaryEncoder.cpp:22:6:void RotaryEncoder::OnInterrupt()	24	static
+../Core/Src/RotaryEncoder.cpp:36:6:void RotaryEncoder::Update()	40	static
+../Core/Src/RotaryEncoder.cpp:52:18:EncoderDirection RotaryEncoder::GetDirection()	16	static
+../Core/Src/RotaryEncoder.cpp:58:8:int8_t RotaryEncoder::GetPosition()	24	static

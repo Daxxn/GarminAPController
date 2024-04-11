@@ -1,0 +1,2 @@
+../Core/Src/Options.cpp:12:6:void Options::SaveOptions()	1
+../Core/Src/Options.cpp:25:6:void Options::ReadOptions()	1

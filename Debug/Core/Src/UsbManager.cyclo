@@ -1,0 +1,8 @@
+../Core/Src/UsbManager.cpp:11:1:UsbManager::UsbManager(TIM_HandleTypeDef*, StatusUnion*, ButtonManager*, IndicatorManager*, EncoderManager*, OptionsChangedCallback)	3
+../Core/Src/UsbManager.cpp:30:1:UsbManager::~UsbManager()	3
+../Core/Src/UsbManager.cpp:30:1:virtual UsbManager::~UsbManager()	1
+../Core/Src/UsbManager.cpp:36:6:void UsbManager::UsbReceivedCallback(uint8_t*, uint32_t*)	2
+../Core/Src/UsbManager.cpp:45:6:void UsbManager::Update()	2
+../Core/Src/UsbManager.cpp:53:6:void UsbManager::StreamDataCallback()	5
+../Core/Src/UsbManager.cpp:68:6:void UsbManager::ParseCommand()	23
+../Core/Src/UsbManager.cpp:145:6:void UsbManager::SendError()	1

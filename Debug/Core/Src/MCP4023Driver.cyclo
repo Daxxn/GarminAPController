@@ -1,0 +1,18 @@
+../Core/Inc/Utils.h:64:2:Pin::Pin()	1
+../Core/Inc/Utils.h:94:7:void Pin::Write(GPIO_PinState)	3
+../Core/Inc/Utils.h:101:7:void Pin::Write(bool)	1
+../Core/Src/MCP4023Driver.cpp:12:1:MCP4023Driver::MCP4023Driver(Pin, Pin, MCP4023_Resistance)	1
+../Core/Src/MCP4023Driver.cpp:19:1:MCP4023Driver::MCP4023Driver(Pin, Pin, MCP4023_Resistance, uint8_t)	1
+../Core/Src/MCP4023Driver.cpp:27:1:MCP4023Driver::~MCP4023Driver()	1
+../Core/Src/MCP4023Driver.cpp:27:1:virtual MCP4023Driver::~MCP4023Driver()	1
+../Core/Src/MCP4023Driver.cpp:31:19:HAL_StatusTypeDef MCP4023Driver::Init()	2
+../Core/Src/MCP4023Driver.cpp:40:6:void MCP4023Driver::SetWiper(uint8_t)	1
+../Core/Src/MCP4023Driver.cpp:46:6:void MCP4023Driver::Increase()	2
+../Core/Src/MCP4023Driver.cpp:54:6:void MCP4023Driver::Decrease()	2
+../Core/Src/MCP4023Driver.cpp:62:6:void MCP4023Driver::Reset()	1
+../Core/Src/MCP4023Driver.cpp:67:6:void MCP4023Driver::SetDefaultStep(uint8_t)	1
+../Core/Src/MCP4023Driver.cpp:75:8:double MCP4023Driver::GetResistance()	1
+../Core/Src/MCP4023Driver.cpp:80:6:void MCP4023Driver::SetResistance(float)	3
+../Core/Src/MCP4023Driver.cpp:96:6:void MCP4023Driver::UpdateStep(uint8_t)	5
+../Core/Src/MCP4023Driver.cpp:127:6:void MCP4023Driver::StepUp()	1
+../Core/Src/MCP4023Driver.cpp:135:6:void MCP4023Driver::StepDown()	1
