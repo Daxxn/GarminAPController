@@ -70,4 +70,4 @@ The protocol is simple. Relying on the USB Serial COMM Port and a standard 11520
  
  ![Whole-Ass-One-Thing](https://media.tenor.com/cU7bnjkGZ1QAAAAM/ron-swanson-half-ass.gif)
  
- The buttons and rotary encoders are easy, even the first version had all that working. The challenge has been getting the state of the autopilot from the sim. Its been an involved preocess thats documented in the [Autopilot Companion App.](https://github.com/Daxxn/TBMAutopilotInterface)
+ The buttons and rotary encoders are easy, even the first version had all that working. The challenge has been getting the state of the autopilot from the sim. Its been an involved preocess thats documented in the [Autopilot Companion App.](https://github.com/Daxxn/GarminAPInterface)
